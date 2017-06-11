@@ -1,5 +1,5 @@
 var Sequelize = require('sequelize')
-var sequelize = require('../config/db')
+//var sequelize = require('../config/db')
 var User = require('./user')
 var UserType = require('./userType')
 var Exercice = require('./exercice')
